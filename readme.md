@@ -4,6 +4,6 @@ git add .
 git reset . 
 git log 
 git commit 
-git checkout -- .
+git checkout -- . (para recuperar y cambiar de rama)
 git branch nuevo_rama
 git branch --list
