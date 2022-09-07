@@ -7,3 +7,5 @@ git commit
 git checkout -- . (para recuperar y cambiar de rama)
 git branch nuevo_rama
 git branch --list
+
+hola q tal
