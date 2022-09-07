@@ -8,4 +8,5 @@ git checkout -- . (para recuperar y cambiar de rama)
 git branch nuevo_rama
 git branch --list
 git mer
-hola q tal
+hola q taldd
+dd
